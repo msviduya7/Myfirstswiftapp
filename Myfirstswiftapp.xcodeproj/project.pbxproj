@@ -12,6 +12,7 @@
 		8B6D450122DF784D008B8AFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B6D44FF22DF784D008B8AFF /* Main.storyboard */; };
 		8B6D450322DF7850008B8AFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B6D450222DF7850008B8AFF /* Assets.xcassets */; };
 		8B6D450622DF7850008B8AFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B6D450422DF7850008B8AFF /* LaunchScreen.storyboard */; };
+		8B6D450E22DF8F67008B8AFF /* SpurIQ Images in Resources */ = {isa = PBXBuildFile; fileRef = 8B6D450D22DF8F67008B8AFF /* SpurIQ Images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8B6D450222DF7850008B8AFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B6D450522DF7850008B8AFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B6D450722DF7850008B8AFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B6D450D22DF8F67008B8AFF /* SpurIQ Images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "SpurIQ Images"; path = "../../SpurIQ Images"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8B6D44FF22DF784D008B8AFF /* Main.storyboard */,
 				8B6D450222DF7850008B8AFF /* Assets.xcassets */,
 				8B6D450422DF7850008B8AFF /* LaunchScreen.storyboard */,
+				8B6D450D22DF8F67008B8AFF /* SpurIQ Images */,
 				8B6D450722DF7850008B8AFF /* Info.plist */,
 			);
 			path = Myfirstswiftapp;
@@ -125,6 +128,7 @@
 				8B6D450622DF7850008B8AFF /* LaunchScreen.storyboard in Resources */,
 				8B6D450322DF7850008B8AFF /* Assets.xcassets in Resources */,
 				8B6D450122DF784D008B8AFF /* Main.storyboard in Resources */,
+				8B6D450E22DF8F67008B8AFF /* SpurIQ Images in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
